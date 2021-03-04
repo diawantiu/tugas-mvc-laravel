@@ -17,6 +17,8 @@
            <ol>
                 <li>Mengunjungi Website ini</li>
                 <li>Mendaftar di <a href='register'>Form Sign Up</a></li>
+                <li>Cek Table<a href='table'>Table</a></li>
+                <li>Cek Data Tables <a href='datatables'>Data Tables</a></li>
                 <li>Selesai!</li>
            </ol>
     </body>

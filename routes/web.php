@@ -20,3 +20,14 @@ Route::get('home', 'HomeController@home');
 Route::get('register', 'AuthController@register');
 
 Route::get('welcomee', 'AuthController@welcomee');
+
+Route::get('table', 'TableController@table');
+
+Route::get('datatables', 'DatatablesController@datatables');
+
+Route::get('master', function() {
+    return view('master');
+});
+
+
+
